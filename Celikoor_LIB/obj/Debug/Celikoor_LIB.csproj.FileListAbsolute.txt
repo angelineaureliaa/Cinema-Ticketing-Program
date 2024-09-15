@@ -1,0 +1,53 @@
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Documents\Database Baru\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+D:\LINE\DATBES TERBARU\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+C:\Users\Sarah Laura\Downloads\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+D:\LINE\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+D:\LINE\INI\Celikoor_BersamaKitaBisaDatabase UBAH (2)\Celikoor_BersamaKitaBisaDatabase UBAH\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Desktop\database last\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\Celikoor_LIB.pdb
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.csproj.CopyComplete
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.dll
+C:\Users\Asus\Pictures\Celikoor_BersamaKitaBisaDatabase\Celikoor_BersamaKitaBisaDatabase\Celikoor_LIB\obj\Debug\Celikoor_LIB.pdb
